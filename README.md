@@ -22,6 +22,7 @@
 访问: 等待几分钟，访问 https://你的用户名.github.io/仓库名/。
 
 <img width="2402" height="1350" alt="image" src="https://github.com/user-attachments/assets/ccac4efd-803f-4c47-8e67-9b4e0ed3a2ed" />
+<img width="2864" height="1536" alt="image" src="https://github.com/user-attachments/assets/ed5de940-02b5-45c7-99b7-5af57e63c617" />
 
 方法 2: 直接本地双击html文件打开
 
